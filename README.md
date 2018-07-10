@@ -4,7 +4,7 @@ Ported FREERTOS and FREERTOS to STM32F1 MCU USING STM32CUBEMX (HAL Lib)
 
 #Thanks to:
 eziya76 from https://blog.naver.com/eziya76/220970378890, great job. 
-And most coding knoledge are obtained from http://www.waveshare.net/. 
+ And most coding knowledge are obtained from http://www.waveshare.net/. 
 
 #Copyrights：
 Feel free to use the codes, and contact chris8567@me.com for questions. 
